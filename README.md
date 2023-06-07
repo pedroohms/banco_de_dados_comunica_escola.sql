@@ -1,0 +1,1 @@
+# banco_de_dados_comunica_escola.sql
